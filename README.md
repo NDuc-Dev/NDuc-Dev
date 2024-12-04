@@ -1,5 +1,5 @@
 ## Hi there, I'm Nguyen Ngoc Duc. My favourite programing language is C# 👋
-- 🌱 I’m currently learning ... ## ASP.Net Core
+- 🌱 I’m currently learning ASP.Net Core
 <!--
 **NDuc-Dev/NDuc-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
